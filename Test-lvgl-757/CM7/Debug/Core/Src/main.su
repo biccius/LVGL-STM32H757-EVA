@@ -1,0 +1,14 @@
+lv_api_map.h:35:51:lv_task_handler	8	static
+main.c:105:5:main	16	static
+main.c:196:6:SystemClock_Config	120	static
+main.c:264:13:MX_DMA2D_Init	8	static
+main.c:293:13:MX_DSIHOST_DSI_Init	176	static
+main.c:402:13:MX_LTDC_Init	64	static
+main.c:464:13:MX_QUADSPI_Init	8	static
+main.c:498:13:MX_RTC_Init	8	static
+main.c:533:13:MX_TIM2_Init	40	static
+main.c:578:13:MX_DMA_Init	16	static
+main.c:606:6:MX_FMC_Init	40	static
+main.c:657:13:MX_GPIO_Init	64	static
+main.c:683:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:693:6:Error_Handler	4	static,ignoring_inline_asm

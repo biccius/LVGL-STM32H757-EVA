@@ -1,0 +1,17 @@
+lv_anim.h:119:20:lv_anim_set_var	16	static
+lv_anim.h:131:20:lv_anim_set_exec_cb	16	static
+lv_anim.h:141:20:lv_anim_set_time	16	static
+lv_anim.h:151:20:lv_anim_set_delay	16	static
+lv_anim.h:162:20:lv_anim_set_values	24	static
+lv_anim.h:220:20:lv_anim_set_ready_cb	16	static
+lv_anim.h:229:20:lv_anim_set_playback_time	16	static
+lv_anim.h:249:20:lv_anim_set_repeat_count	16	static
+lv_disp.h:162:26:lv_scr_act	8	static
+lv_slider.h:84:20:lv_slider_set_value	24	static
+lv_demo_stress.c:46:6:lv_demo_stress	8	static
+lv_demo_stress.c:55:13:obj_test_task_cb	168	static
+lv_demo_stress.c:426:13:auto_del	88	static
+lv_demo_stress.c:438:13:msgbox_del	16	static
+lv_demo_stress.c:443:13:set_y_anim	16	static
+lv_demo_stress.c:448:13:set_width_anim	16	static
+lv_demo_stress.c:453:13:arc_set_end_angle_anim	16	static

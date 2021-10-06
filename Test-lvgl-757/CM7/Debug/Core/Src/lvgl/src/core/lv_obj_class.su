@@ -1,0 +1,7 @@
+lv_obj_class.c:43:12:lv_obj_class_create_obj	40	static
+lv_obj_class.c:103:6:lv_obj_class_init_obj	24	static
+lv_obj_class.c:132:6:_lv_obj_destruct	16	static
+lv_obj_class.c:145:6:lv_obj_is_editable	24	static
+lv_obj_class.c:157:6:lv_obj_is_group_def	24	static
+lv_obj_class.c:173:13:lv_obj_construct	24	static
+lv_obj_class.c:191:17:get_instance_size	24	static
